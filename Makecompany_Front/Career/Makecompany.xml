@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Makecompany>
-  <!--コミット対象からはずしたつもりなのですが。。。-->
+  <!--コミット対象からはずしたつもりなのです-->
   <ODBC>
     <DSN>make-app_DB32</DSN>
     <Driver>{SQL Server Native Client 11.0}</Driver>

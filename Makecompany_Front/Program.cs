@@ -19,6 +19,8 @@ namespace Makecompany_Front
             //Application.Run(new frmデータ取り込み画面());
             Application.Run(new frmスケジュール作成());
             //Application.Run(new frmカレンダー作成());
+
+            // 2018/8/31 GitHubにてソースコードの管理開始
         }
     }
 }
